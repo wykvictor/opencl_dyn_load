@@ -1,0 +1,1 @@
+Based on OpenCL_Dyn_Load from https://code.google.com/archive/p/electromag-with-cuda/source/default/source
